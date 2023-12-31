@@ -1,0 +1,27 @@
+[
+      {
+        "brand": "Rolex",
+        "model": "Submariner",
+        "movement": "Automatic",
+        "price": 8000
+      },
+      {
+        "brand": "Omega",
+        "model": "Speedmaster Professional",
+        "movement": "Manual",
+        "price": 5000
+      },
+      {
+        "brand": "Tag Heuer",
+        "model": "Carrera",
+        "movement": "Quartz",
+        "price": 3000
+      },
+      {
+        "brand": "Seiko",
+        "model": "Presage",
+        "movement": "Automatic",
+        "price": 600
+      }
+]
+  
